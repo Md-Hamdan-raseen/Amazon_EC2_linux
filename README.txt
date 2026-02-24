@@ -104,8 +104,5 @@ Example:
 - Instance lifecycle management
 - Cost awareness in AWS
 
----
 
-
-
-👨‍💻 Author: Mohamed Hamdan Raseen
+👨‍💻 Author: Mohamed Hamdan Raseen 
