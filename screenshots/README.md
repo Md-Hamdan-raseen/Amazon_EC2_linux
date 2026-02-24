@@ -1,16 +1,16 @@
 ## 📸 Project Screenshots
 
 ### EC2 Instance Running
-![EC2 Running](/ec2-running.png)
+![EC2 Running](screenshots/ec2-running.png)
 
 ### Security Group Configuration
-![Security Group](/security-group.png)
+![Security Group](screenshots/security-group.png)
 
 ### Apache Web Server Install
-![Apache Install](/apache-install.png)
+![Apache Install](screenshots/apache-install.png)
 
 ### Apache Web Server Status
-![Apache Status](/apache-status.png)
+![Apache Status](screenshots/apache-status.png)
 
 ### Website Output
-![Website Output](/website-output.png)
+![Website Output](screenshots/website-output.png)
